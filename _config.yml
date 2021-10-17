@@ -30,7 +30,7 @@ masthead_title           : "소나무의 기록하는 공간"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -59,8 +59,8 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Sonamu"
   avatar           : "/assets/images/profile.jfif"
-  bio              : "주니어 백엔드 개발자입니다😊 <br> 글에서 수정이 필요한 부분에 대해 댓글 남겨주신다면 감사하겠습니다 🙏"
+  bio              : "주니어 백엔드 개발자입니다😊 <br> 글에서 수정이 필요한 부분에 대해 <br> 댓글 남겨주신다면 감사하겠습니다 🙏"
   location         : "Republic of Korea"
   email            : "yedoriiiii@naver.com"
   links:
@@ -287,3 +287,4 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar_main: true

@@ -1,4 +1,23 @@
-# Item1 - 생성자 대신 정적 팩토리 메서드를 고려하라
+---
+title:  "[Effective Java] Item1 - 생성자 대신 정적 팩토리 메서드를 고려하라"
+excerpt: "Effective Java Item1 생성자 대신 정적 팩토리 메서드를 고려하라를 읽고 정리한 포스팅입니다"
+
+layout: single
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+
+categories:
+  - Java
+tags:
+  - [Java, Effective Java, 생성자, 정적 팩토리 메서드]
+
+toc: true
+toc_sticky: true
+toc_label: Contents
+last_modified_at: 2021-10-17
 ---
 ## 생성자 vs 정적 팩토리 메서드
 ---
