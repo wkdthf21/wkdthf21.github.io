@@ -25,7 +25,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : wkdthf21/wkdthf21.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.jfif"
 masthead_title           : "소나무의 기록하는 공간"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Sonamu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "주니어 개발자입니다 😎 <br> 블로그 포스트 글에서 잘못된 부분이나 수정했으면 하는 부분, 적극적으로 댓글 남겨주신다면 감사하겠습니다."
+  bio              : "주니어 백엔드 개발자입니다😊 <br> 글에서 수정이 필요한 부분에 대해 댓글 남겨주신다면 감사하겠습니다 🙏"
   location         : "Republic of Korea"
   email            : "yedoriiiii@naver.com"
   links:
